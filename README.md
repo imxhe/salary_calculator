@@ -62,8 +62,8 @@
 这个设计将时间显示与收入展示完美结合，既保持了功能性又提升了视觉体验，使整个计算器看起来更加专业和现代化。
 
 ## 图片展示
-![首页](http://img.022220.xyz/pics/681cbf7510b4a.png)
-![计算结果](http://img.022220.xyz/pics/681cbf7510b75.png)
+![首页](http://img.022220.xyz/pics/681cbf7510b75.png)
+![计算结果](http://img.022220.xyz/pics/681cbf7510b4a.png)
 ![单页版本](http://img.022220.xyz/pics/681cbf75109b0.png)
 
 有两个版本，index2.php是单页版本，分页版本请查看demo演示
