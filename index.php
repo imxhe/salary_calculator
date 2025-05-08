@@ -141,7 +141,7 @@
         }
         
         .btn-success:hover {
-            background-color: #33c7f5;
+            background-color: #379ebe;
             transform: translateY(-2px);
             box-shadow: 0 4px 12px rgba(76, 201, 240, 0.25);
         }
