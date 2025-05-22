@@ -56,7 +56,7 @@
             color: var(--primary-color);
             text-align: center;
             margin-bottom: 25px;
-            font-size: 1.8rem;
+            font-size: 1.5rem;
             font-weight: 700;
         }
         
